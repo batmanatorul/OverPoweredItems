@@ -1,0 +1,42 @@
+{
+  "group": "overpowereditems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "1": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "2": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "3": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "4": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "5": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "6": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "7": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "8": {
+      "item": "overpowereditems:overworldaliencrystals"
+    }
+  },
+  "result": {
+    "item": "overpowereditems:crystaliumblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nether_alien_pickaxe",
+    "customModelName": "Normal",
+    "name": "Nether Alien Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Overpowereditemstab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 10,
+    "efficiency": 30.0,
+    "attackSpeed": 0.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 8,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "rystalium_armor_head",
+    "enableBody": true,
+    "textureBody": "rystalium_armor_body",
+    "enableLeggings": true,
+    "textureLeggings": "rystalium_armor_leggings",
+    "enableBoots": true,
+    "textureBoots": "rystalium_armor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Overpowereditemstab"
+    },
+    "armorTextureFile": "rystalium_armor",
+    "helmetName": "Crystalium Helmet",
+    "bodyName": "Crystalium Body",
+    "leggingsName": "Crystalium Leggings",
+    "bootsName": "Crystalium Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 50,
+    "damageValueHelmet": 5,
+    "damageValueBody": 10,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 5,
+    "enchantability": 5,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": "ambient.cave"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/overworld_alien_crystal_ore",
+    "up": "overpowereditems:blocks/overworld_alien_crystal_ore",
+    "north": "overpowereditems:blocks/overworld_alien_crystal_ore",
+    "east": "overpowereditems:blocks/overworld_alien_crystal_ore",
+    "south": "overpowereditems:blocks/overworld_alien_crystal_ore",
+    "west": "overpowereditems:blocks/overworld_alien_crystal_ore",
+    "particle": "overpowereditems:blocks/overworld_alien_crystal_ore"
+  }
+}

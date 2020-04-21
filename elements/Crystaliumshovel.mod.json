@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystalium_shovel",
+    "customModelName": "Normal",
+    "name": "Crystalium shovel",
+    "creativeTab": {
+      "value": "CUSTOM:Overpowereditemstab"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      }
+    ]
+  }
+}

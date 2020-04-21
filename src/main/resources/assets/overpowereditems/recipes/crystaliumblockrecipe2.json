@@ -1,0 +1,16 @@
+{
+  "group": "overpowereditems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "overpowereditems:crystaliumblock"
+    }
+  },
+  "result": {
+    "item": "overpowereditems:overworldaliencrystals",
+    "count": 9
+  }
+}

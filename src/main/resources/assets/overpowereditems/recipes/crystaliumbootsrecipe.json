@@ -1,0 +1,26 @@
+{
+  "group": "overpowereditems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "2": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "3": {
+      "item": "overpowereditems:overworldaliencrystals"
+    },
+    "5": {
+      "item": "overpowereditems:overworldaliencrystals"
+    }
+  },
+  "result": {
+    "item": "overpowereditems:crystaliumboots",
+    "count": 1
+  }
+}

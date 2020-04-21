@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/dimension1block_top",
+    "up": "overpowereditems:blocks/dimension1block_top",
+    "north": "overpowereditems:blocks/dimension1block_sides",
+    "east": "overpowereditems:blocks/dimension1block_sides",
+    "south": "overpowereditems:blocks/dimension1block_sides",
+    "west": "overpowereditems:blocks/dimension1block_sides",
+    "particle": "overpowereditems:blocks/dimension1block_top"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      },
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Crystalium.body"
+    },
+    "name": "crystaliumchestplaterecipe",
+    "namespace": "mod"
+  }
+}

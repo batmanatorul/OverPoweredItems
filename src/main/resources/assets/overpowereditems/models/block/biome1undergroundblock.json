@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/biome1dirt",
+    "up": "overpowereditems:blocks/biome1dirt",
+    "north": "overpowereditems:blocks/biome1dirt",
+    "east": "overpowereditems:blocks/biome1dirt",
+    "south": "overpowereditems:blocks/biome1dirt",
+    "west": "overpowereditems:blocks/biome1dirt",
+    "particle": "overpowereditems:blocks/biome1dirt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/nether_crystalium_ore",
+    "up": "overpowereditems:blocks/nether_crystalium_ore",
+    "north": "overpowereditems:blocks/nether_crystalium_ore",
+    "east": "overpowereditems:blocks/nether_crystalium_ore",
+    "south": "overpowereditems:blocks/nether_crystalium_ore",
+    "west": "overpowereditems:blocks/nether_crystalium_ore",
+    "particle": "overpowereditems:blocks/nether_crystalium_ore"
+  }
+}

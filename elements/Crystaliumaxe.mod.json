@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystalium_axe",
+    "customModelName": "Normal",
+    "name": "Crystalium axe",
+    "creativeTab": {
+      "value": "CUSTOM:Overpowereditemstab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 25.0,
+    "attackSpeed": 2.0,
+    "enchantability": 5,
+    "damageVsEntity": 12.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:OverworldAlienCrystals"
+      }
+    ]
+  }
+}

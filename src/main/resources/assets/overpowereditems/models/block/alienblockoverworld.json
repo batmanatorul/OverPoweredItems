@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/alien_block_overworld_texture",
+    "up": "overpowereditems:blocks/alien_block_overworld_texture",
+    "north": "overpowereditems:blocks/alien_block_overworld_texture",
+    "east": "overpowereditems:blocks/alien_block_overworld_texture",
+    "south": "overpowereditems:blocks/alien_block_overworld_texture",
+    "west": "overpowereditems:blocks/alien_block_overworld_texture",
+    "particle": "overpowereditems:blocks/alien_block_overworld_texture"
+  }
+}

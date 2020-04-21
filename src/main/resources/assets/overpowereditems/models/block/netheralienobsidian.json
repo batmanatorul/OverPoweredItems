@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/nether_alien_obsidian",
+    "up": "overpowereditems:blocks/nether_alien_obsidian",
+    "north": "overpowereditems:blocks/nether_alien_obsidian",
+    "east": "overpowereditems:blocks/nether_alien_obsidian",
+    "south": "overpowereditems:blocks/nether_alien_obsidian",
+    "west": "overpowereditems:blocks/nether_alien_obsidian",
+    "particle": "overpowereditems:blocks/nether_alien_obsidian"
+  }
+}

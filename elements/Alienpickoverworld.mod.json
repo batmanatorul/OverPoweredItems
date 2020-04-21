@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pick_alien_overworld_texture",
+    "customModelName": "Normal",
+    "name": "Overworld Alien Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Overpowereditemstab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 8,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

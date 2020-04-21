@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "overpowereditems:dimension1_portal_ew"
+    },
+    "axis=x": {
+      "model": "overpowereditems:dimension1_portal_ns"
+    },
+    "inventory": {
+      "model": "overpowereditems:dimension1_portal_ns"
+    }
+  }
+}
