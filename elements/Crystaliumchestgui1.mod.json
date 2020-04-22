@@ -8,15 +8,6 @@
     "renderBgLayer": true,
     "components": [
       {
-        "type": "outputslot",
-        "data": {
-          "id": 0,
-          "name": "Slot #0",
-          "x": 264,
-          "y": 78
-        }
-      },
-      {
         "type": "inputslot",
         "data": {
           "inputLimit": {
@@ -326,6 +317,18 @@
           "name": "Slot #26",
           "x": 552,
           "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 264,
+          "y": 78
         }
       }
     ]
