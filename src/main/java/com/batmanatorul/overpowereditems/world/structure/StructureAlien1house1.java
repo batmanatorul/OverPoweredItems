@@ -36,7 +36,7 @@ public class StructureAlien1house1 extends ElementsOverpoweredItems.ModElement {
 		}
 		if (!dimensionCriteria)
 			return;
-		if ((random.nextInt(1000000) + 1) <= 2250) {
+		if ((random.nextInt(1000000) + 1) <= 9000) {
 			int count = random.nextInt(1) + 1;
 			for (int a = 0; a < count; a++) {
 				int i = i2 + random.nextInt(16) + 8;
@@ -65,7 +65,7 @@ public class StructureAlien1house1 extends ElementsOverpoweredItems.ModElement {
 				if (world.isRemote)
 					return;
 				Template template = ((WorldServer) world).getStructureTemplateManager().getTemplate(world.getMinecraftServer(),
-						new ResourceLocation("overpowereditems", "alien1_house"));
+						new ResourceLocation("overpowereditems", "alien_house"));
 				if (template == null)
 					return;
 				Rotation rotation = Rotation.values()[random.nextInt(3)];
