@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "ENTITY": 8,
     "DIMENSION": 1,
+    "ENTITY": 8,
     "GUI": 1
   },
   "mod_elements": [
@@ -403,6 +403,14 @@
       "ids": {
         "0": 1
       }
+    },
+    {
+      "name": "Alien1houseLootTable",
+      "type": "loottable",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
