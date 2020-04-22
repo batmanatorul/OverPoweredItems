@@ -1,6 +1,7 @@
 {
   "id_map": {
     "ENTITY": 8,
+    "GUI": 1,
     "DIMENSION": 1
   },
   "mod_elements": [
@@ -408,6 +409,24 @@
           }
         ]
       }
+    },
+    {
+      "name": "Crystaliumchest",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crystaliumchestgui1",
+      "type": "gui",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
     }
   ],
   "variable_elements": [],
@@ -418,6 +437,7 @@
       "item.dimension1.name": "crystalium portal igniter",
       "tile.biome1undergroundblock.name": "Blue dirt",
       "item.alienpickoverworld.name": "Overworld Alien Pickaxe",
+      "tile.crystaliumchest.name": "Crystaliumchest",
       "item.netheralienpickaxe.name": "Nether Alien Pickaxe",
       "tile.alienblockoverworld.name": "Overworld Alien Obsidian",
       "item.crystaliumbody.name": "Crystalium Body",

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "overpowereditems:blocks/crystalium_chest1",
+    "up": "overpowereditems:blocks/crystalium_chest1",
+    "north": "overpowereditems:blocks/crystalium_chest1",
+    "east": "overpowereditems:blocks/crystalium_chest1",
+    "south": "overpowereditems:blocks/crystalium_chest1",
+    "west": "overpowereditems:blocks/crystalium_chest1",
+    "particle": "overpowereditems:blocks/crystalium_chest1"
+  }
+}
