@@ -55,7 +55,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "overpowereditems:crystaliumapple",
+          "name": "minecraft:golden_apple#0",
           "weight": 20
         }
       ]
