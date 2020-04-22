@@ -45,8 +45,6 @@ import java.util.ArrayList;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Retention;
 
-import com.batmanatorul.overpowereditems.gui.GuiCrystaliumchestgui1;
-
 public class ElementsOverpoweredItems implements IFuelHandler, IWorldGenerator {
 	public final List<ModElement> elements = new ArrayList<>();
 	public final List<Supplier<Block>> blocks = new ArrayList<>();
@@ -127,15 +125,11 @@ public class ElementsOverpoweredItems implements IFuelHandler, IWorldGenerator {
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-			if (id == GuiCrystaliumchestgui1.GUIID)
-				return new GuiCrystaliumchestgui1.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-			if (id == GuiCrystaliumchestgui1.GUIID)
-				return new GuiCrystaliumchestgui1.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}
