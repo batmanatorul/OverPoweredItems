@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "ENTITY": 8,
     "DIMENSION": 1,
+    "ENTITY": 8,
     "GUI": 1
   },
   "mod_elements": [
@@ -281,30 +281,6 @@
       "ids": {}
     },
     {
-      "name": "Alien1house2",
-      "type": "structure",
-      "sortid": 34,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Alien1house3",
-      "type": "structure",
-      "sortid": 35,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Alien1house4",
-      "type": "structure",
-      "sortid": 36,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "Crystaliumblock",
       "type": "block",
       "sortid": 37,
@@ -427,6 +403,38 @@
       "ids": {
         "0": 1
       }
+    },
+    {
+      "name": "Alien1houseLootTable",
+      "type": "loottable",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnhancedcrystaliumappleFoodEaten",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Enhancedcrystaliumapple",
+      "type": "food",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -459,6 +467,7 @@
       "tile.dimension1portalblock.name": "Dimension1portalblock",
       "item.crystaliumapple.name": "Crystaliumapple",
       "item.crystaliumaxe.name": "Crystalium axe",
+      "item.enhancedcrystaliumapple.name": "Enhancedcrystaliumapple",
       "tile.netheralienobsidian.name": "Netheralienobsidian"
     }
   },

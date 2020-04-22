@@ -1,0 +1,110 @@
+{
+  "_fv": 6,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 2,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DIAMOND_HELMET"
+            },
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DIAMOND_CHESTPLATE"
+            },
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DIAMOND_LEGGINGS"
+            },
+            "weight": 20
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DIAMOND_BOOTS"
+            },
+            "weight": 20
+          }
+        ]
+      },
+      {
+        "minrolls": 4,
+        "maxrolls": 15,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.BREAD"
+            },
+            "weight": 40
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.STICK"
+            },
+            "weight": 10
+          }
+        ]
+      },
+      {
+        "minrolls": 1,
+        "maxrolls": 2,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Crystaliumapple"
+            },
+            "weight": 20
+          }
+        ]
+      },
+      {
+        "minrolls": 2,
+        "maxrolls": 5,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Biome1groundblock"
+            },
+            "weight": 40
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Biome1undergroundblock"
+            },
+            "weight": 40
+          }
+        ]
+      }
+    ],
+    "name": "chests/alien_house",
+    "namespace": "mod"
+  }
+}

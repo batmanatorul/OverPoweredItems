@@ -2,10 +2,10 @@
   "_fv": 6,
   "_type": "structure",
   "definition": {
-    "structure": "alien1_house",
+    "structure": "alien_house",
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
-    "spawnProbability": 2250,
+    "spawnProbability": 9000,
     "minCountPerChunk": 1,
     "maxCountPerChunk": 1,
     "spawnLocation": "Ground",

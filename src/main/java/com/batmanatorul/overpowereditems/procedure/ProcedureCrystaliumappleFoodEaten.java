@@ -20,7 +20,7 @@ public class ProcedureCrystaliumappleFoodEaten extends ElementsOverpoweredItems.
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		if (entity instanceof EntityLivingBase)
-			((EntityLivingBase) entity).addPotionEffect(new PotionEffect(MobEffects.REGENERATION, (int) 200, (int) 3));
+			((EntityLivingBase) entity).addPotionEffect(new PotionEffect(MobEffects.REGENERATION, (int) 160, (int) 2));
 		if (entity instanceof EntityLivingBase)
 			((EntityLivingBase) entity).addPotionEffect(new PotionEffect(MobEffects.ABSORPTION, (int) 1200, (int) 2));
 		if (entity instanceof EntityLivingBase)
