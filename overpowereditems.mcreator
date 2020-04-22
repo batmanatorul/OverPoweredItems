@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "DIMENSION": 1,
-    "ENTITY": 8
+    "ENTITY": 8,
+    "DIMENSION": 1
   },
   "mod_elements": [
     {
@@ -419,8 +419,8 @@
       "tile.biome1undergroundblock.name": "Blue dirt",
       "item.alienpickoverworld.name": "Overworld Alien Pickaxe",
       "item.netheralienpickaxe.name": "Nether Alien Pickaxe",
-      "tile.alienblockoverworld.name": "Overworld Alien Obsidian",
       "item.crystaliumbody.name": "Crystalium Body",
+      "tile.alienblockoverworld.name": "Overworld Alien Obsidian",
       "item.crystaliumsword.name": "Crystalium sword",
       "tile.nethercrystaliumore.name": "Netheralium Ore",
       "item.crystaliumboots.name": "Crystalium Boots",
