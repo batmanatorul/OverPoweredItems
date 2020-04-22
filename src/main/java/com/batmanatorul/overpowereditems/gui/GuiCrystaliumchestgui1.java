@@ -62,12 +62,6 @@ public class GuiCrystaliumchestgui1 extends ElementsOverpoweredItems.ModElement 
 			TileEntity ent = world.getTileEntity(new BlockPos(x, y, z));
 			if (ent instanceof IInventory)
 				this.internal = (IInventory) ent;
-			this.customSlots.put(0, this.addSlotToContainer(new Slot(internal, 0, 8, 3) {
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
-			}));
 			this.customSlots.put(1, this.addSlotToContainer(new Slot(internal, 1, 26, 3) {
 			}));
 			this.customSlots.put(2, this.addSlotToContainer(new Slot(internal, 2, 44, 3) {
@@ -119,6 +113,8 @@ public class GuiCrystaliumchestgui1 extends ElementsOverpoweredItems.ModElement 
 			this.customSlots.put(25, this.addSlotToContainer(new Slot(internal, 25, 134, 39) {
 			}));
 			this.customSlots.put(26, this.addSlotToContainer(new Slot(internal, 26, 152, 39) {
+			}));
+			this.customSlots.put(0, this.addSlotToContainer(new Slot(internal, 0, 8, 3) {
 			}));
 			int si;
 			int sj;
